@@ -1,0 +1,31 @@
+.contanier {
+  max-width: 1100px;
+  margin-top: 100px;
+  margin-right : auto;
+  margin-left : auto;
+}
+
+.cat-item {
+  width: 250px;
+  height: 250px;
+  margin: 10px 10px 30px 10px;
+  padding: 0;
+  display: inline-block;
+  background-color: white;
+  border: solid 1px #8CD0F7;
+}
+
+.cat-item img {
+  max-width: 100%;
+}
+
+.cat-item p {
+  margin: 0;
+}
+
+.form {
+  max-width: 1100px;
+  margin-bottom: 100px;
+  margin-right : auto;
+  margin-left : auto;
+}
