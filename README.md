@@ -1,7 +1,10 @@
 # mini_nodejs_proj
 
 ### 项目简介
-首页提供GET方法与POST方法示例。
+
+一个使用NodeJS基础的`http, fs, path, url, querystring`等模块提供的API搭建的简单web服务器.
+html页面非常简陋，因为本项目的重点是由nodejs搭建的简单服务器，提供GET、POST方法.
+
 - GET
 
   首页呈现的是游戏《猫咪后院》的日志，包括猫咪的图片、名字以及其何时来到后院。  
@@ -11,9 +14,7 @@
 
   POST示例是提供一个简单的表单填写，点击提交之后服务器会返回你提交的数据给浏览器显示。
 
-### 实现技术简介
-一个使用NodeJS基础的http, fs, path, url, querystring等模块提供的API搭建的简单web服务器.
-html页面非常简陋，因为本项目的重点是由nodejs搭建的简单服务器，提供GET、POST方法.
+
 
 ### 项目结构如下
 ```
